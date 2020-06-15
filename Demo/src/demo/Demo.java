@@ -2,6 +2,6 @@ package demo;
 
 public class Demo {
   public Demo() {
-	System.out.println(11);
+	System.out.println(22);
 }
 }
